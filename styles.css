@@ -74,7 +74,7 @@
     left: 0;
     position: absolute;
     display: block;
-    background-image: url('/images/bg-pattern-top-mobile.svg');
+    background-image: url('images/bg-pattern-top-mobile.svg');
     width: 374px;
     height: 232px;
 
@@ -86,7 +86,7 @@
     right: 0;
     position: absolute;
     display: block;
-    background-image: url('/images/bg-pattern-bottom-mobile.svg');
+    background-image: url('images/bg-pattern-bottom-mobile.svg');
     width: 375px;
     height: 503px;
     z-index: 1;
