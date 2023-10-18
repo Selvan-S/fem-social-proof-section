@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/Selvan-S/fem-social-proof-section)
+- Live Site URL: [here](https://selvan-s.github.io/fem-social-proof-section/)
 
 ## My process
 
