@@ -194,6 +194,7 @@
     left: 0;
     right: 0;
     margin-bottom: 1rem;
+    z-index: 2;
   }
 .attribution {
     font-size: 11px;
